@@ -1,5 +1,5 @@
 
-# TennisClubLadder	
+# LFTC Singles Ladder	
 Tennis Club Ladder is web application which allows a tennis club to setup and run an internal singles challenge ladder.
 Players can see who is available to play, send and accept challenges to play, record results and see a filtered list of ladder updates.
 
